@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-Public class CalcularLetradni {
+public class CalcularLetraDNI {
     public static char CalcularLetraDNI(int dni) {
         String letras = "TRWAGMYFPDXBNJZSQVHLCKE";
         return letras.charAt(dni % 23);

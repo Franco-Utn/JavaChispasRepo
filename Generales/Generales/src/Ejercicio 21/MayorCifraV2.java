@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CifraMayor {
+public class MayorCifraV2 {
 
     public static void main(String[] args)  {
 

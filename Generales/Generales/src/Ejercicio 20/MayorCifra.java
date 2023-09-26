@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MayorCifraDeNumero {
+public class MayorCifra {
 
     public static void main(String[] args) {
 
@@ -31,5 +31,5 @@ public class MayorCifraDeNumero {
 
         System.out.print("Cifra mayor: " + mayor);
 
-        System.out.println(" Posición: " + posicionMayor);
+        System.out.println(" Posición: " + posicionMayor);}
 }
